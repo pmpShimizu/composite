@@ -1,5 +1,7 @@
 ## 概要
 
+**各ファイルやフォルダの削除処理をシミュレーション出来ます**
+
 **非Composite実装（nocompositeバージョン）**
 
 - **DocumentFile.java**
